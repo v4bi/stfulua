@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"The right person won't need you to explain your silence. They will sit beside it."</i></p>
+<p align="center"><i>"There is no answer better than silence, and there is no punishment worse than forgiveness."</i></p>
 <!-- QUOTE_END -->
 
 </div>
