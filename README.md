@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"There is no answer better than silence, and there is no punishment worse than forgiveness."</i></p>
+<p align="center"><i>"I will not be reformed by those who broke me. That is what it means to be Incorrigible."</i></p>
 <!-- QUOTE_END -->
 
 </div>
