@@ -33,9 +33,9 @@
 
 <h2 align="center" style="color: #00FFFF;">📊 GitHub Stats</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stfulua&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamthealfaandtheomega&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=stfulua&theme=radical" alt="GitHub Streak">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamthealfaandtheomega&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
