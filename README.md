@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"If you want to understand me, read the silence, not the storm."</i></p>
+<p align="center"><i>"There is no answer better than silence, and there is no punishment worse than forgiveness."</i></p>
 <!-- QUOTE_END -->
 
 </div>
