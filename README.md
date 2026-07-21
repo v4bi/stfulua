@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"A quiet man is terrifying to those who live in noise."</i></p>
+<p align="center"><i>"If you want to understand me, read the silence, not the storm."</i></p>
 <!-- QUOTE_END -->
 
 </div>
