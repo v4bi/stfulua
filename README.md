@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"I will not be reformed by those who broke me. That is what it means to be Incorrigible."</i></p>
+<p align="center"><i>"A quiet man is terrifying to those who live in noise."</i></p>
 <!-- QUOTE_END -->
 
 </div>
