@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"If you want to understand me, read the silence, not the storm."</i></p>
+<p align="center"><i>"The right person won't need you to explain your silence. They will sit beside it."</i></p>
 <!-- QUOTE_END -->
 
 </div>
